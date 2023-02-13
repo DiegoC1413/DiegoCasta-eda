@@ -3,7 +3,7 @@
 
 - 👨‍💻 En este repositorio podrás encontrar **mis proyectos escolares, proyectos de cursos que estaré tomando, ademas de ejercicios de practica**
 
-- 📫 Puedes contactarme en mi correo: **diegocastaneda15@aragon.unam.mx**
+- 📫 Puedes contactarme en mi correo: **dcastanadacruz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
